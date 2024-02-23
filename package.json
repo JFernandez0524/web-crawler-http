@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js",
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "Jose Fernandez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
